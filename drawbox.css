@@ -27,6 +27,7 @@
     }
 
     .tutorial {
+      justify-content: center;
         width: 80%;
         margin: auto;
            
