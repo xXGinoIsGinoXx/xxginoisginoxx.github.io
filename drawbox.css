@@ -165,6 +165,27 @@
 
             }
 
+@media screen and (max-width: 1400px){
+               
+               
+                .drawbox_con{
+                  padding: 20px;
+           
+              }
+
+             #controls, .des{
+                    width: 100%;
+                    max-width:700px;
+                }
+
+                                
+             
+               #controls{
+                 max-width:var(--canvasSize);
+               }
+
+            }
+
 
 
               @media screen and (max-width: 1000px){
