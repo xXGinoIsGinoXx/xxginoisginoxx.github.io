@@ -18,10 +18,10 @@ https://oldcompcz.github.io/jgs/joan_stark/
   alternatively you can save them in a another file for safe keeping.
 */
 //mine
-const GOOGLE_FORM_ID = "1FAIpQLScoGz_QbDtoTdXdRmH5dDlIpCo2DNZY-LEg3SKhtHKNSlAcAw";
-const IMGUR_ID = "entry.2109284117";
-const NAME_ID = "entry.1862726355";
-const GOOGLE_SHEET_ID = "1ktraLj0cL4rySe8eQsC892Bd0qsPlKtR6vk-Fmbb2BE";
+const GOOGLE_FORM_ID = "1FAIpQLSdKYnBXBU6-AG7XqvCLfuUNGiwACL9mQREhjVkmJ6hshPFRwg";
+const IMGUR_ID = "entry.707929636";
+const NAME_ID = "entry.97229278";
+const GOOGLE_SHEET_ID = "1ELcwOdze7W7Zo_TzJ4TeK9WRBJIMKrjg32F_1U5lX7M";
 
 // turn on or off gallery
 const DISPLAY_IMAGES = true;
