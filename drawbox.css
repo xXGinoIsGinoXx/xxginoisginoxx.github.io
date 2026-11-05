@@ -153,8 +153,8 @@
               }
 
              #controls, .des{
-                    width: 700px;
-                    max-width:100%;
+                    width: 100%;
+                    max-width:700px;
                 }
 
                                 
