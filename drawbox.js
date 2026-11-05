@@ -24,7 +24,7 @@ const NAME_ID = "entry.97229278";
 const GOOGLE_SHEET_ID = "1ELcwOdze7W7Zo_TzJ4TeK9WRBJIMKrjg32F_1U5lX7M";
 
 // turn on or off gallery
-const DISPLAY_IMAGES = true;
+const DISPLAY_IMAGES = false;
 // post approval - make false if you dont want to approve images
 const IMAGE_APPROVAL = true;
 
