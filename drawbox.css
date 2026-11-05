@@ -1,5 +1,4 @@
-  
-   /* ####### tutorial styling - feel free to remove when you copy over ######*/
+/* ####### tutorial styling - feel free to remove when you copy over ######*/
    .blue{background-color:cyan;}
    .yellow{background-color:yellow;}
    .green{background-color:lime;}
@@ -27,7 +26,7 @@
     }
 
     .tutorial {
-      justify-content: center;
+       justify-content: center;
         width: 80%;
         margin: auto;
            
@@ -153,29 +152,7 @@
               }
 
              #controls, .des{
-                    width: 100%;
-                    max-width:700px;
-                }
-
-                                
-             
-               #controls{
-                 max-width:var(--canvasSize);
-               }
-
-            }
-
-@media screen and (max-width: 1400px){
-               
-               
-                .drawbox_con{
-                  padding: 20px;
-           
-              }
-
-             #controls, .des{
-                    width: 100%;
-                    max-width:700px;
+                    max-width:100%;
                 }
 
                                 
@@ -198,7 +175,7 @@
 
              #controls, .des{
                     width: 100%;
-                    max-width:700px;
+                    max-width:500px;
                 }
 
                   .flex {
