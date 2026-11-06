@@ -50,3 +50,26 @@
 #gallerytitlething {
    width: 300px;
 }
+
+#gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            padding: 20px;
+                }
+
+        
+        .image-container {
+            border: var(--borderStyle);
+            padding: 5px;
+            text-align: center;
+            border-radius: 5px;
+            max-width:300px;
+             
+
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
