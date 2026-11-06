@@ -25,6 +25,7 @@
       
  <!---you can add multiple color palettes make sure to have the value and id name match!-->
     <!--color color gen site: https://coolors.co/?home -->
+         <!---
  <label><strong>Color Palette:</strong></label>
   <select name="palette" id="palette"  onchange="showDiv()">
     <option value="Basic">Basic Html Colors</option>
@@ -32,8 +33,7 @@
     <option value="AutumnHarvest">Autumn Harvest</option>
   </select>
 
-     <!-- https://www.w3schools.com/colors/colors_names.asp -->
-      <!--make sure the colorpicker.value is in hexdemical. Colorchoice value is the name that will display when you choose a color-->
+     
   <div id="Basic" class="colorPalette">
     <div onclick="change_color(this); colorchoice.value = 'Red' ; colorpicker.value = '#ff0000'"  style="background: #ff0000;" class="stroke_color"></div>
     <div onclick="change_color(this); colorchoice.value = 'Blue' ; colorpicker.value = '#0000ff'"  style="background: #0000ff;" class="stroke_color"></div>
@@ -44,7 +44,7 @@
     <div onclick="change_color(this); colorchoice.value = 'Black' ; colorpicker.value = '#000000'"  style="background: #000000" class="stroke_color"></div>
   </div>
 
-   <!-- https://coolors.co/palette/ffe5ec-ffc2d1-ffb3c6-ff8fab-fb6f92 -->
+  
     <div id="Pink" class="colorPalette">
         <div onclick="change_color(this); colorchoice.value = 'Soft Blush' ; colorpicker.value = '#FFE5EC'"  style="background: #FFE5EC;" class="stroke_color"></div>
         <div onclick="change_color(this); colorchoice.value = 'Pastel Pink' ; colorpicker.value = '#FFC2D1'"  style="background: #FFC2D1;" class="stroke_color"></div>
@@ -53,7 +53,7 @@
         <div onclick="change_color(this); colorchoice.value = 'Petal Rouge' ; colorpicker.value = '#fb6f92'"  style="background: #fb6f92;" class="stroke_color"></div>     
    </div>
      
-   <!-- https://coolors.co/palette/6f1d1b-bb9457-432818-99582a-ffe6a7  -->
+   
     <div id="AutumnHarvest" class="colorPalette">
         <div onclick="change_color(this); colorchoice.value = 'Dark Wine' ; colorpicker.value = '#6f1d1b'"  style="background: #6f1d1b;" class="stroke_color"></div>
         <div onclick="change_color(this); colorchoice.value = 'Camel' ; colorpicker.value = '#BB9457'"  style="background: #BB9457;" class="stroke_color"></div>
@@ -88,7 +88,7 @@
             <input type="text" oninput="user_name = this.value" required maxlength="30">
         <br>
         <br>
-</fieldset>   
+</fieldset> -->
     <button onclick="Undo()" title="you can also do crtl+z">Undo</button>
     <button onclick="Clear()" title="clear button">Clear</button>
     <button id="submit">Submit drawing</button>
