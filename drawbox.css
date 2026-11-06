@@ -72,3 +72,11 @@
             height: auto;
             display: block;
         }
+
+#controls, .des {
+            width:var(--canvasSize);
+            border:var(--borderStyle); 
+            padding: 5px;
+            margin-bottom:5px;
+            background-color: lightgrey;
+            margin-inline:0px;
