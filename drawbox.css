@@ -74,7 +74,7 @@
         }
 
 #controls, .des {
-            width:var(--canvasSize);
+            width: 800px;
             border:var(--borderStyle); 
             padding: 5px;
             margin-bottom:5px;
