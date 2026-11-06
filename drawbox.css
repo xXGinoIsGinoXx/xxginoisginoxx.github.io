@@ -47,6 +47,8 @@
 
 #gallery {
    width: 1200px;
+    border: 5px solid;
+    border-color: #9f0452;
 }
     /* if you like the style of my og page, also added 3maqidrawbox.css to your page :) 
       please use a different background though please! 
