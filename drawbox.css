@@ -1,3 +1,12 @@
+   body {
+    background-image:url('things/star background yay.png');
+    background-size: cover;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #21000d;
+   }
+
    .blue{background-color:cyan;}
    .yellow{background-color:yellow;}
    .green{background-color:lime;}
