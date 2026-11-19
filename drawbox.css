@@ -55,7 +55,12 @@
        justify-content: center;
         width: 80%;
         margin: auto;
-        width: 810px;
+        width: 842px;
+       border: 16px solid transparent;
+       border-radius: 10px;
+       border-image: url('things/orangee.png') 62 round;
+       border-image-repeat: round;
+       outline: #b7135c solid 5px;
     }
     .stroke_color {
           width:32px;
@@ -101,11 +106,6 @@
 
 #controls, .des {
             width: 800px;
-            border: 16px solid transparent;
-            border-radius: 10px;
-            border-image: url('things/orangee.png') 62 round;
-            border-image-repeat: round;
-            outline: #b7135c solid 5px;
             padding: 5px;
             margin-bottom:5px;
             background-color: lightgrey;
