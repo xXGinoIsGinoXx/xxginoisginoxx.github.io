@@ -11,6 +11,10 @@
    .yellow{background-color:yellow;}
    .green{background-color:lime;}
    .magenta{background-color:magenta;}
+
+#container {
+   display: flex;
+}
    
     #form{
        display: block;
