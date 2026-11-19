@@ -21,6 +21,10 @@
    height: 400px;
    background-color: #fff0e7;
 }
+
+.drawbox_con {
+   width: 810px;
+}
    
     #form{
        display: block;
