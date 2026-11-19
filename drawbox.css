@@ -57,14 +57,6 @@
         margin: auto;
         width: 810px;
     }
-
-.TheCanvas {
-   border: 16px solid transparent;
-    border-radius: 10px;
-    border-image: url('things/orangee.png') 62 round;
-    border-image-repeat: round;
-    outline: #b7135c solid 5px;
-}
     .stroke_color {
           width:32px;
           height:32px;
