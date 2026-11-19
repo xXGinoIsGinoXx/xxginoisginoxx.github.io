@@ -17,6 +17,10 @@
    gap: 0.4em;
 }
 
+.drawbox_con {
+   width: 900px;
+}
+
 .textstuff {
    width: 500px;
    height: 400px;
