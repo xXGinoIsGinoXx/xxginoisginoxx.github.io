@@ -23,6 +23,10 @@
    width: 600px;
    height: 380px;
    background-color: #fff0e7;
+   border: 16px solid transparent;
+    border-radius: 10px;
+    border-image: url('things/orangee.png') 62 round;
+    border-image-repeat: round;
    outline: #b7135c solid 5px;
 }
    
@@ -59,6 +63,7 @@
     border-radius: 10px;
     border-image: url('things/orangee.png') 62 round;
     border-image-repeat: round;
+    outline: #b7135c solid 5px;
 }
     .stroke_color {
           width:32px;
@@ -108,6 +113,7 @@
             border-radius: 10px;
             border-image: url('things/orangee.png') 62 round;
             border-image-repeat: round;
+            outline: #b7135c solid 5px;
             padding: 5px;
             margin-bottom:5px;
             background-color: lightgrey;
