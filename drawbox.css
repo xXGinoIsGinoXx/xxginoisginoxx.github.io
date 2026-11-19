@@ -16,6 +16,7 @@
    width: 1214px;
    display: flex;
    margin: auto;
+   gap: 3.2em;
 }
 
 .textstuff {
