@@ -22,6 +22,7 @@
 .textstuff {
    width: 600px;
    height: 380px;
+   padding: 5px;
    background-color: #fff0e7;
    border: 16px solid transparent;
     border-radius: 10px;
