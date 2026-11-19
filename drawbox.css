@@ -30,6 +30,12 @@
     border-image-repeat: round;
    outline: #b7135c solid 5px;
 }
+
+.‎TheCanvas {
+   border: #d61212 4px;
+  border-top-style: solid;
+  border-bottom-style: solid;
+}
    
     #form{
        display: block;
