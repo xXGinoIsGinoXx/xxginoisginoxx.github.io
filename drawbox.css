@@ -57,6 +57,7 @@
         width: 80%;
         margin: auto;
         width: 842px;
+       background-color: #fff0e7;
        border: 16px solid transparent;
        border-radius: 10px;
        border-image: url('things/orangee.png') 62 round;
