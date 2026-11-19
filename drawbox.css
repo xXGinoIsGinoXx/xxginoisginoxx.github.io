@@ -13,6 +13,7 @@
    .magenta{background-color:magenta;}
 
 #container {
+   width: 1200px;
    display: flex;
    gap: 0.4em;
    margin: auto;
