@@ -21,10 +21,6 @@
    height: 400px;
    background-color: #fff0e7;
 }
-
-.drawbox_con {
-   width: 810px;
-}
    
     #form{
        display: block;
@@ -51,7 +47,7 @@
        justify-content: center;
         width: 80%;
         margin: auto;
-        width: 1200px;
+        width: 810px;
            
     }
     .stroke_color {
