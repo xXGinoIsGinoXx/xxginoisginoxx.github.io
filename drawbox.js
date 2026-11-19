@@ -26,7 +26,7 @@ const GOOGLE_SHEET_ID = "1ELcwOdze7W7Zo_TzJ4TeK9WRBJIMKrjg32F_1U5lX7M";
 // turn on or off gallery
 const DISPLAY_IMAGES = true;
 // post approval - make false if you dont want to approve images
-const IMAGE_APPROVAL = true;
+const IMAGE_APPROVAL = false;
 
 // optional I recommend getting your own client ID https://apidocs.imgur.com/ */
 const CLIENT_ID = "bfaaee57f0b78f1";
@@ -295,7 +295,7 @@ document.getElementById("submit").addEventListener("click", async function () {
       alert("Image uploaded and submitted successfully! It will post once I approve the image!! :D");
     }
     else {
-      alert("Image uploaded and submitted successfully!!");
+      alert("Image uploaded and submitted successfully!! :D");
     };
     
     location.reload();
