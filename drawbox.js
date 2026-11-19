@@ -292,10 +292,10 @@ document.getElementById("submit").addEventListener("click", async function () {
 
     statusText.textContent = "Upload successful!";
     if(IMAGE_APPROVAL){
-      alert("Image uploaded and submitted successfully! It will post once I approve the image :)");
+      alert("Image uploaded and submitted successfully! It will post once I approve the image!! :D");
     }
     else {
-      alert("Image uploaded and submitted successfully!");
+      alert("Image uploaded and submitted successfully!!");
     };
     
     location.reload();
