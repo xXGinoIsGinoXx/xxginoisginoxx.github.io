@@ -6,12 +6,11 @@ src: url("things/LexieReadable-Regular.ttf") format("truetype");
 
 }
 
-p {
+p, ul, select {
   font-family: "Lexie",verdana, cursive;
 }
 
 ul {
-  font-family: "Lexie",verdana, cursive;
   list-style-type: none;
 }
 
