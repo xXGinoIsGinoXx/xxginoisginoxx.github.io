@@ -13,6 +13,11 @@ p {
 
 button {
    border-radius: 8px;
+   width: 120px;
+}
+
+#submit {
+   width: 140px;
 }
 
    .blue{background-color:cyan;}
