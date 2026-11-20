@@ -11,6 +11,10 @@ p, button {
    font-size: 1.2em;
 }
 
+label, strong {
+   font-size: 1.3em;
+}
+
 button {
    border-radius: 8px;
    background-color: #4fdabb;
