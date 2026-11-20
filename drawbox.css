@@ -14,6 +14,7 @@ p {
 button {
    border-radius: 8px;
    background-color: #4fdabb;
+   width: 80px;
 }
 
 #submit {
