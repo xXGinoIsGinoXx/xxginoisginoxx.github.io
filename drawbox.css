@@ -23,6 +23,10 @@ p {
    gap: 3.2em;
 }
 
+#headerthing {
+   width: 800px;
+}
+
 .textstuff {
    width: 600px;
    height: 380px;
