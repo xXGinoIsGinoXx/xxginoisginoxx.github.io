@@ -7,6 +7,10 @@
     background-color: #f15b44;
    }
 
+p { 
+   font-size: 1.4em;
+}
+
    .blue{background-color:cyan;}
    .yellow{background-color:yellow;}
    .green{background-color:lime;}
