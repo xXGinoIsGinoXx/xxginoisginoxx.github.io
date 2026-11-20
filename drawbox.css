@@ -11,6 +11,10 @@ p {
    font-size: 1.4em;
 }
 
+button {
+   border-radius: 14px;
+}
+
    .blue{background-color:cyan;}
    .yellow{background-color:yellow;}
    .green{background-color:lime;}
