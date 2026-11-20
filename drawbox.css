@@ -13,6 +13,7 @@ p {
 
 button {
    border-radius: 10px;
+   width: 150px;
 }
 
    .blue{background-color:cyan;}
