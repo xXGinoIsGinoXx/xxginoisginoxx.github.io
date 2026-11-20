@@ -6,7 +6,7 @@ src: url("things/LexieReadable-Regular.ttf") format("truetype");
 
 }
 
-p, ul, select {
+p, ul, select, button {
   font-family: "Lexie",verdana, cursive;
 }
 
